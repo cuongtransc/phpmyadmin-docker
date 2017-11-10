@@ -1,6 +1,6 @@
 PRIVATE_REGISTRY_URL=ro.lan:5000
 
-DOCKER_IMAGE=tranhuucuong91/phpmyadmin
+DOCKER_IMAGE=cuongtransc/phpmyadmin
 VERSION=4.6.2
 
 all: build
